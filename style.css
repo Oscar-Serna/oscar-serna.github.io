@@ -243,6 +243,9 @@ main > div{
         margin-bottom: 45px
 
     }
+        .description > .titulo{
+        width: 300px;
+    }
     .inferior{
         margin-bottom: 50px;
     }
